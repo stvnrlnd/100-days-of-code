@@ -23,3 +23,15 @@ The day started off slow and I had trouble convincing myself to do anything, but
 
 #### Links to work
 * Scotch.io RESTful API with Node and Express 4 project: https://github.com/stvnrlnd/scotch_express_node_api
+
+
+### Day 3: November 4, 2017
+#### Today's Progress
+* [GitHub](https://github.com/stvnrlnd/100-days-of-code): Updated log with progress from 03-11-2017.
+* [Github](https://github.com/stvnrlnd) & [Scotch.io](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4): Followed the tutorial and finsihed building a RESTful API using Node and Express 4.
+
+#### Thoughts
+I've been heavily distracted with a work situation for most of the day, but taking the time to sit down and code for a while has really improved my mood and state of mind. Today I finished up the Scotch.io RESTful API tutorial and got my log for yesterday updated. Scotch.io is a great resource for people of all skill levels, I love how well they break down tough concepts and how they take the time to explain why something works, and not just how to make it work.
+
+#### Links to work
+* Scotch.io RESTful API with Node and Express 4 project: https://github.com/stvnrlnd/scotch_express_node_api
